@@ -1,4 +1,4 @@
-# emergent_misalingment_diss
+# Emergent Misalignment Diss 
 
 This repo contains the code used for my MSc dissertation on emergent misalignment in LLMs. 
 
